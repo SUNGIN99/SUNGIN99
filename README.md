@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [![SUNGIN99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNGIN99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SUNGIN99)
 
 ## Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SUNGIN99&theme=onedark)](https://github.com/SUNGIN99/github-profile-trophy)
