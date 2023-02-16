@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%9C%EB%AF%B8%EC%97%90%EC%84%9C-%EB%B1%83%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0 -->.
 
+# :fire:BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=99_insung)](https://solved.ac/99_insung)
 
 ## Tech Stacks
 ![SUNGIN99's github stats](https://github-readme-stats.vercel.app/api?username=SUNGIN99&show_icons=true)
