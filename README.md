@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white">
+
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <!--https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%9C%EB%AF%B8%EC%97%90%EC%84%9C-%EB%B1%83%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0 -->.
 
 # :fire:BOJ
