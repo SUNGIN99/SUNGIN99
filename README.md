@@ -1,6 +1,6 @@
 ### KIM SUNG IN 👋
 
-### [공부 블로그](https://blog.naver.com/99_insung)
+##  [📒공부 블로그](https://blog.naver.com/99_insung)
 <!-- https://novlog.tistory.com/104-->
 <!--
 **SUNGIN99/SUNGIN99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 🎲 Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white">
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src= "https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
