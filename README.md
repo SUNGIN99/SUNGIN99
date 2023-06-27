@@ -1,6 +1,8 @@
 ### KIM SUNG IN 👋
 
-##  [📒공부 블로그](https://blog.naver.com/99_insung)
+##  [📗Naver 블로그](https://blog.naver.com/99_insung)
+##  [📘Velog 블로그](https://velog.io/@99_insung)
+
 <!-- https://novlog.tistory.com/104-->
 <!--
 **SUNGIN99/SUNGIN99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
