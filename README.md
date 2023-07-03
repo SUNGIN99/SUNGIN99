@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 ## Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUNGIN99&theme=onedark)](https://github.com/SUNGIN99/github-profile-trophy)
 
+<img src="https://ghchart.rshah.org/SUNGIN99" />
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
