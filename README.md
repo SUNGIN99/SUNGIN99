@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🎲 Stacks
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white">
+#### Languages : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white">
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src= "https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
+### FrameWorks : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src= "https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
+### DBMS&SQL <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
 
 <!--https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%9C%EB%AF%B8%EC%97%90%EC%84%9C-%EB%B1%83%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0 --> 
 # :fire:BOJ
