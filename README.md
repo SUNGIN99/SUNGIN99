@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 #### FrameWorks : <img src="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src= "https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"> 
 
+#### Infra : <img src="https://img.shields.io/badge/Kuberentes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/EKS-FF9900?&style=for-the-badge&logo=Amazon EKS&logoColor=black"> <img src="https://img.shields.io/badge/Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=black"> <img src="https://img.shields.io/badge/Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=black"> <img src="https://img.shields.io/badge/API Gateway-FF4F8B?&style=for-the-badge&logo=Amazon API Gateway&logoColor=black"> 
+
 #### clouds : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Amazon Rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/nginx-0009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 
 #### DBMS&SQL: <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/aQueryTool-9999FF?style=for-the-badge&logo=aQueryTool&logoColor=white">
+
+#### CI/CD : <img src="https://img.shields.io/badge/Travis CI - 3EAAAF?&style=for-the-badge&logo=Travis CI&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=black"> <img src="https://img.shields.io/badge/Terraform-844FBA?&style=for-the-badge&logo=Terraform&logoColor=black"> 
 
 #### Team : <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">
 
