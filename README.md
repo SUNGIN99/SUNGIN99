@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🎲 Stacks <!-- https://simpleicons.org/-->
-#### Languages : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/java-FC4C02.svg?&style=for-the-badge&logo=JAVA&logoColor=white">
+#### Languages : <img src="https://img.shields.io/badge/java-FC4C02.svg?&style=for-the-badge&logo=eclipse&logoColor=blue">  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 #### FrameWorks : <img src="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src= "https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"> 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### DBMS&SQL: <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/aQueryTool-9999FF?style=for-the-badge&logo=aQueryTool&logoColor=white">
 
-#### CI/CD : <img src="https://img.shields.io/badge/Travis CI - 3EAAAF?&style=for-the-badge&logo=Travis CI&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=black"> <img src="https://img.shields.io/badge/Terraform-844FBA?&style=for-the-badge&logo=Terraform&logoColor=black"> 
+#### CI/CD : <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=black"> <img src="https://img.shields.io/badge/Travis CI - 3EAAAF?&style=for-the-badge&logo=Travis CI&logoColor=black">  <img src="https://img.shields.io/badge/Terraform-844FBA?&style=for-the-badge&logo=Terraform&logoColor=black"> 
 
 #### Team : <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">
 
