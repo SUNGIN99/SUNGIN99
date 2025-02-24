@@ -11,8 +11,9 @@
 - 정보처리기사 (2023.11)
 - SQLD (2023.12)
 - Certified Kubernetes Administrator (2024.3)
+- Certified Kubernetes Administrator (2025.2)
   
-<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" height="100">     
+<span><a href="https://www.credly.com/earner/earned/badge/0c61262f-37fb-43e7-931c-2ea10aeacae9"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="105" height="105"></a> </span>    <span><a href="https://www.credly.com/earner/earned/badge/0c61262f-37fb-43e7-931c-2ea10aeacae9"><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="100" height="100"></a></span>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=99_insung)](https://solved.ac/99_insung)
 
